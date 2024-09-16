@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yogigapura
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS, Python, Javascript & Laravel
+- 🌱 I’m currently learning HTML, CSS, Javascript & Laravel
 - 💞️ I’m looking to collaborate on all project that can improve my skill
 - 📫 How to reach me yogi.gapura@gmail.com
 
